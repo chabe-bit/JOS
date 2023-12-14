@@ -1,6 +1,6 @@
 # Operating Systems Engineering: JOS Labs 1-3
 
-This repository contains my work on Labs 1 to 4 of the Operating Systems Engineering course, focused on building key components of the JOS operating system. JOS is a simplified, Unix-like operating system implemented in an exokernel style, designed to provide a deep understanding of fundamental OS concepts.
+This repository contains my work on Labs 1 to 3 of the Operating Systems Engineering course, focused on building key components of the JOS operating system. JOS is a simplified, Unix-like operating system implemented in an exokernel style, designed to provide a deep understanding of fundamental OS concepts.
 
 ## Overview
 
